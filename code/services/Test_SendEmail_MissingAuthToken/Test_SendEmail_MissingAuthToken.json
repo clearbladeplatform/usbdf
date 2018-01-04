@@ -1,0 +1,10 @@
+{
+    "current_version": 1,
+    "dependencies": "SendGridEmail,log",
+    "logging_enabled": "true",
+    "name": "Test_SendEmail_MissingAuthToken",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "Test_SendEmail_MissingAuthToken.js"
+}
