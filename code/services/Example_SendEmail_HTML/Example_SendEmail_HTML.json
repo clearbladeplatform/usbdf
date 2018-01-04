@@ -1,0 +1,10 @@
+{
+    "current_version": 1,
+    "dependencies": "SendGridEmail,log",
+    "logging_enabled": "true",
+    "name": "Example_SendEmail_HTML",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "Example_SendEmail_HTML.js"
+}
