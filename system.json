@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "SendGrid RESTful Email Library",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "export-jan4",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "82aefb9f0bc2e9d7b0ead4c5a7f501",
+    "system_secret": "82AEFB9F0BA4BEAE82EC9A95EFFE01"
+}
